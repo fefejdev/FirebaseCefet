@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729301236121",
+    "project_id": "fir-cefet",
+    "storage_bucket": "fir-cefet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729301236121:android:a4d2092978c4584434bb08",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729301236121-ve33ektk560duoqijllvv0lioi69ob9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvB46J-3inOd2AGQ0XdOp7yLbvEjyXwzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729301236121-ve33ektk560duoqijllvv0lioi69ob9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
